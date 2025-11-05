@@ -37,7 +37,7 @@ Scikit-learn (sklearn)
 
 1. Clone this repository:
 
-git clone https://github.com/jerripothulalahari/student-dropout-prediction.git
+git clone https://github.com/jerripothulalahari/student-dropout-prediction
 cd student-dropout-prediction
 
 
